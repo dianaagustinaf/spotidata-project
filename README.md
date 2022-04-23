@@ -6,11 +6,11 @@
 
 We have worked with the Spotify API to analyse:
 
-The most streamed songs of all time: [Initial Dataset](https://chartmasters.org/spotify-most-streamed-songs/).
+The most streamed songs of all time: [Initial Dataset](/Resources/Most-Streamed-Songs-All-Time.csv). [Source](https://chartmasters.org/spotify-most-streamed-songs/).
 
-The Top-100 songs of each year of the last 20 years (2000-2021): [Initial Dataset](https://chart2000.com/about.htm#google_vignette).
+The Top-100 songs of each year of the last 20 years (2000-2021): [Initial Dataset](/Resources/MusicCharts.csv). [Source](https://chart2000.com/about.htm#google_vignette).
 
-The most streamed artists: [Initial Dataset](https://chartmasters.org/most-streamed-artists-ever-on-spotify/).
+The most streamed artists: [Initial Dataset](/Resources/artist_data.csv). [Source](https://chartmasters.org/most-streamed-artists-ever-on-spotify/).
 
 
 ## Spotify API
