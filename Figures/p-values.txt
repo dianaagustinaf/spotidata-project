@@ -25,3 +25,12 @@ Liveness p-value: 0.29186704995948226
 Loudness p-value: 1.1687204647549243e-06
 Speechiness p-value: 9.896746508439755e-12
 Tempo p-value: 0.013194790007835546
+Acousticness p-value: 4.70510787006181e-11
+Danceability p-value: 4.753966967962627e-05
+Duration p-value: 1.7601910180393274e-76
+Energy p-value: 6.701165524765086e-28
+Instrumentalness p-value: 0.5726917620430495
+Liveness p-value: 0.29186704995948226
+Loudness p-value: 1.1687204647549243e-06
+Speechiness p-value: 9.896746508439755e-12
+Tempo p-value: 0.013194790007835546
