@@ -56,6 +56,7 @@ Some of the questions we asked ourselves and have answered through data analysis
 
 ## Files
 
-* You can find in the .ipynb file all the analysis with pandas, numpy and matplotlib, as well as the information requests to the Spotify API.
+* You can find in the [Final_SpotiData_Analysis.ipynb](Final_SpotiData_Analysis.ipynb) file all the analysis with pandas, numpy and matplotlib, as well as the information requests to the Spotify API.
 * In [Resources](/Resources) are the datasets.
 * In [Figures](/Figures) are the plots made with matplotlib.
+* Also we added the [Proposal](Proposal_SpotiData.pdf) and the [Presentation](Presentation_SpotiData.pptx).
